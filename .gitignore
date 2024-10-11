@@ -1,0 +1,10 @@
+
+/coverage
+/node_modules
+*.swp
+docker-compose.yml
+Dockerfile
+Dockerfile.db
+init-replica.sh
+.vscode
+/env
