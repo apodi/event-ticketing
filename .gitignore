@@ -7,4 +7,4 @@ Dockerfile
 Dockerfile.db
 init-replica.sh
 .vscode
-/env
+.env
